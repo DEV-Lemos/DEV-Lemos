@@ -13,8 +13,9 @@
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
      <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
     <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" />
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+    <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" />
   </p>
   
 
@@ -27,13 +28,13 @@
   
 <h2>Estatísticas 📈</h2>  
 
-  ![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoGomes20&show_icons=true&count_private=true&theme=tokyonight)
+  ![Isac Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Lemos&show_icons=true&count_private=true&theme=tokyonight)
  
 <h2>Linguagens utilizadas 🐍</h2>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGomes20&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Lemos&layout=compact&theme=tokyonight)
  
 <h2>Contatos 📖</h2>
-  <a href="https://www.linkedin.com/in/franciscohgomes/">Linkedin</a><br>
-  <a href="mailto:henriquecgomes10@gmail.com">henriquecgomes10@gmail.com</a>
+  <a href="https://www.linkedin.com/in/isac-lemos-5b43981aa/">Linkedin</a><br>
+  <a href="mailto:isac.lemos@outlook.com">isac.lemos@outlook.com</a>
 
