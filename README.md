@@ -30,7 +30,7 @@
 
   ![Isac Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-Lemos&show_icons=true&count_private=true&theme=tokyonight)
  
-<h2>Linguagens utilizadas 🐍</h2>
+<h2>Linguagens utilizadas ♨️ </h2>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-Lemos&layout=compact&theme=tokyonight)
  
